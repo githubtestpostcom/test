@@ -1,5 +1,6 @@
 <form>
 	<en='this is form'>
 	<ru='это форма'>
-	<tr='abcdifj'>
+	<fr='xxxxxxxx'>
+	<tr='abcdifj_aaaaaaa'>
 </form>
