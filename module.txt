@@ -1,5 +1,7 @@
 function abc()
-	a=b+c;
+	a=b+c; // change exists line
+    // this is bug fix from client01
+    a=0;
 endfunction
 
 function cba()
