@@ -1,3 +1,7 @@
 function abc()
 	a=b+c;
 endfunction
+
+function cba()
+	c=b-a;
+endfunction
