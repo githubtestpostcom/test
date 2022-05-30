@@ -1,7 +1,8 @@
 <form>
 	<en='this is form'>
 	<ru='это форма'>
-	<tr='abcdifj'>
+	<fr='xxxxxxxx'>
+	<tr='abcdifj_aaaaaaa'>
 <new attribute 1 for client 01>
 <new attribute 2 for client 01>
 </form>
