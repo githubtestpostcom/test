@@ -4,4 +4,5 @@ endfunction
 
 function cba()
 	c=b-a;
+	// add comment
 endfunction
