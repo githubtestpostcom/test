@@ -1,3 +1,7 @@
 function abc()
 	a=b+c;
 endfunction
+
+function only_for_client01()
+    d="only for client01"
+endfunction

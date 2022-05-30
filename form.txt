@@ -2,4 +2,6 @@
 	<en='this is form'>
 	<ru='это форма'>
 	<tr='jhbfvjhdbvjh sdhbcjhdbvjhdv'>
+<new attribute 1 for client 01>
+<new attribute 2 for client 01>
 </form>

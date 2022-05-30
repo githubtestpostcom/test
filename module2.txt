@@ -1,0 +1,5 @@
+// this module only for client 01
+
+procedure qwerty()
+    return;
+endprocedure
