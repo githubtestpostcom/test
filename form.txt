@@ -1,3 +1,5 @@
 <form>
 	<en='this is form'>
+	<ru='это форма'>
+	<tr='jhbfvjhdbvjh sdhbcjhdbvjhdv'>
 </form>
