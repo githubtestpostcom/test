@@ -4,8 +4,10 @@ endfunction
 
 function cba()
 	c=b-a;
+	// add comment
 endfunction
 
 function only_for_client01()
     d="only for client01"
 endfunction
+
