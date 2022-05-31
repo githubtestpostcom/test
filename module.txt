@@ -2,6 +2,7 @@ function abc()
 	a=b+c; // change exists line
     // this is bug fix from client01
     a=0; b=b;
+    bug_fix4(); // bugfix4
 endfunction
 
 function cba()
@@ -9,4 +10,15 @@ function cba()
 	// add comment
     // new bug fix
     r=9;
+    bug_fix4(); // bugrix4
 endfunction
+
+// this is big bug fix
+function bug_fix4()
+    // many line of code
+    line 1
+    line 2
+    line 3
+    line 4
+endfunction
+
