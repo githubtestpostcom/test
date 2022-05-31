@@ -7,4 +7,6 @@ endfunction
 function cba()
 	c=b-a;
 	// add comment
+    // new bug fix
+    r=9;
 endfunction
